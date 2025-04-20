@@ -1,15 +1,15 @@
-import logoDevlens from "../assets/logo-devlens.svg";
-import logoStyleSpy from "../assets/logo-style-spy.svg";
-import logoSpeedBoost from "../assets/logo-speed-boost.svg";
-import logoJsonWizard from "../assets/logo-json-wizard.svg";
-import logoTabMasterPro from "../assets/logo-tab-master-pro.svg";
-import logoViewportBuddy from "../assets/logo-viewport-buddy.svg";
-import logoMarkupNotes from "../assets/logo-markup-notes.svg";
-import logoGridGuides from "../assets/logo-grid-guides.svg";
-import logoPalettePicker from "../assets/logo-palette-picker.svg";
-import logoLinkChecker from "../assets/logo-link-checker.svg";
-import logoDomSnapshot from "../assets/logo-dom-snapshot.svg";
-import logoConsolePlus from "../assets/logo-console-plus.svg";
+import logoDevlens from '../assets/images/logo-devlens.svg';
+import logoStyleSpy from '../assets/images/logo-style-spy.svg';
+import logoSpeedBoost from '../assets/images/logo-speed-boost.svg';
+import logoJsonWizard from '../assets/images/logo-json-wizard.svg';
+import logoTabMasterPro from '../assets/images/logo-tab-master-pro.svg';
+import logoViewportBuddy from '../assets/images/logo-viewport-buddy.svg';
+import logoMarkupNotes from '../assets/images/logo-markup-notes.svg';
+import logoGridGuides from '../assets/images/logo-grid-guides.svg';
+import logoPalettePicker from '../assets/images/logo-palette-picker.svg';
+import logoLinkChecker from '../assets/images/logo-link-checker.svg';
+import logoDomSnapshot from '../assets/images/logo-dom-snapshot.svg';
+import logoConsolePlus from '../assets/images/logo-console-plus.svg';
 
 const Mockdata = [
     {
@@ -97,3 +97,5 @@ const Mockdata = [
         "isActive": true
     }
 ]
+
+export default Mockdata;
